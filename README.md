@@ -17,6 +17,7 @@ _Меня зовут Руслан.
   * [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
   * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
   * [Проект Runit](https://github.com/AavadaKedavra/runit)
+  * [Geocron](https://github.com/hexlet-components/ru-my-first-issue/issues/53)
 
 ### Инструменты
 
