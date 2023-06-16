@@ -1,9 +1,7 @@
 ## Ave, Caesar - Imperator, morituri te salutant
 
 <div align="center">
-
 ![GIF](https://media.giphy.com/media/i7syEG8zEgBzThfcBB/giphy.gif)
-  
 </div>
 
 _Меня зовут Руслан.
@@ -28,5 +26,5 @@ _Меня зовут Руслан.
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" /> </a>
 </p>
 
-  ## Мои контакты
-   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AavadaKeedavra)
+## Мои контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AavadaKeedavra)
