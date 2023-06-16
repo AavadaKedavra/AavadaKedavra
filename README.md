@@ -1,7 +1,9 @@
 ## Ave, Caesar - Imperator, morituri te salutant
 
 <div align="center">
+  
 ![GIF](https://media.giphy.com/media/i7syEG8zEgBzThfcBB/giphy.gif)
+
 </div>
 
 _Меня зовут Руслан.
