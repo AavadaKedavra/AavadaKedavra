@@ -9,3 +9,6 @@
 * [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
 * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
 * [Проект Runit](https://github.com/AavadaKedavra/runit)
+
+  ## Мои контакты
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/AavadaKeedavra))
