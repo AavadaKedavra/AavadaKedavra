@@ -33,3 +33,6 @@ _Меня зовут Руслан.
 
 ## Мои контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AavadaKeedavra)
+<a href="https://ru.hexlet.io/u/ruslan_ya">
+    <img src="https://img.shields.io/badge/Hexlet-lightgrey?style=flat" alt="Hexlet Badge"/>
+  </a>
