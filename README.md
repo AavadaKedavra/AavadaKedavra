@@ -1,4 +1,11 @@
 ## Ave, Caesar - Imperator, morituri te salutant
+
+<div align="center">
+
+![GIF](https://media.giphy.com/media/i7syEG8zEgBzThfcBB/giphy.gif)
+  
+</div>
+
 _Меня зовут Руслан.
 Закончил учебу по направлению QA в школе программирования Хекслет. Сейчас в поиске работы или стажировки, буду рад поработать вместе!_ 
 
