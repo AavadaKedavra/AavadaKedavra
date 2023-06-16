@@ -1,4 +1,4 @@
-## Ave, Caesar, morituri te salutant
+## Ave, Caesar - Imperator, morituri te salutant
 Меня зовут Руслан
 Закончил учебу по направлению QA в школе программирования Хекслет. Сейчас в поиске работы или стажировки, буду рад порабоать вместе! 
 
