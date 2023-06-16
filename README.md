@@ -13,10 +13,12 @@ _Меня зовут Руслан.
 Подробное [резюме](https://cv.hexlet.io/ru/resumes/2499)
 
 ## Портфолио
-#Проекты
+**Проекты
 * [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
 * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
 * [Проект Runit](https://github.com/AavadaKedavra/runit)
+* **Issues
+* 
 
 ### Инструменты
 
@@ -26,6 +28,8 @@ _Меня зовут Руслан.
 <a href="https://qameta.io/" target="_blank" rel="noreferrer"><img src="https://github.com/AavadaKedavra/AavadaKedavra/blob/main/logo.svg" width="50" height="50" alt="AllureTestops" /></a> 
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" /> </a>
+<a href="https://friends.hexlet.io/contributors/AavadaKedavra/">
+<img src="https://friends.hexlet.io/static/images/achievments_icons/friend.svg" alt="friends.hexlet" width="50" height="50" /> </a>
 </p>
 
 ## Мои контакты
