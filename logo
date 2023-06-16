@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>HTML5 page with SVG Content</title>
-</head>
-<body>
-<p>This is the markup of an ordinary HTML5 page.</p>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg"xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"width="400px" height="400px">
-<path fill="#5DD7FC" d="M0.5… /> <!—SVG document
-</svg>
-</body>
-</html>
+
