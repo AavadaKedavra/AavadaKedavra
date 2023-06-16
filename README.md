@@ -1,6 +1,6 @@
 ## Ave, Caesar - Imperator, morituri te salutant
 
-<div align="right">
+<div align="left">
 
 ![GIF](https://media.giphy.com/media/i7syEG8zEgBzThfcBB/giphy.gif)
   
