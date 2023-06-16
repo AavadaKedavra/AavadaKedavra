@@ -27,7 +27,7 @@ _Меня зовут Руслан.
 <a href="https://qameta.io/" target="_blank" rel="noreferrer"><img src="https://github.com/AavadaKedavra/AavadaKedavra/blob/main/logo.svg" width="50" height="50" alt="AllureTestops" /></a> 
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" /> </a>
-<a href="Linux">
+<a href="https://ru.wikipedia.org/wiki/Linux">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50" /> </a>
 </p>
 
