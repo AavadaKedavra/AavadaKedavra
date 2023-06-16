@@ -18,10 +18,6 @@ _Меня зовут Руслан.
   * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
   * [Проект Runit](https://github.com/AavadaKedavra/runit)
 
-**Issues**
-  * https://github.com/hexlet-codebattle/codebattle/issues/1430
-
-
 ### Инструменты
 
 <p align="left">
