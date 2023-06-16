@@ -14,9 +14,9 @@ _Меня зовут Руслан.
 
 ## Портфолио
 **Проекты**
-* [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
-* [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
-* [Проект Runit](https://github.com/AavadaKedavra/runit)
+  * [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
+  * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
+  * [Проект Runit](https://github.com/AavadaKedavra/runit)
 
 **Issues**
 
