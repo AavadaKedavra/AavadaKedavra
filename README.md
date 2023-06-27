@@ -19,6 +19,13 @@ _Меня зовут Руслан.
   * [Runit](https://github.com/AavadaKedavra/runit)
   * [Geocron](https://github.com/hexlet-components/ru-my-first-issue/issues/53)
 
+**My issues**
+* [codebattle](https://github.com/hexlet-codebattle/codebattle/issues/1430)
+* [Runit](https://github.com/hexlet-rus/runit/issues/282)
+* [Runit](https://github.com/hexlet-rus/runit/issues/283)
+* [Runit](https://github.com/hexlet-rus/runit/issues/284)
+* [Runit](https://github.com/hexlet-rus/runit/issues/285)
+  
 ### Инструменты
 
 <p align="left">
