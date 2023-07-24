@@ -18,6 +18,8 @@ _Меня зовут Руслан.
   * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
   * [Runit](https://github.com/AavadaKedavra/runit)
   * [Geocron](https://github.com/hexlet-components/ru-my-first-issue/issues/53)
+  * [hexlet-correction](https://github.com/Hexlet/hexlet-correction)
+  * 
 
 **My issues**
 * [codebattle](https://github.com/hexlet-codebattle/codebattle/issues/1430)
