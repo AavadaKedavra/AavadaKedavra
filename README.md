@@ -12,8 +12,8 @@ _Меня зовут Руслан.
 ## My CV
 Подробное [резюме](https://cv.hexlet.io/ru/resumes/2499)
 
-## Портфолио
-**Проекты**
+## My portfolio
+**Projects**
   * [Тестирование интернет-магазина](https://github.com/AavadaKedavra/qa-engineer-project-84)
   * [Тестирование приложения Codebattle](https://github.com/AavadaKedavra/qa-engineer-project-85)
   * [Runit](https://github.com/AavadaKedavra/runit)
@@ -26,7 +26,7 @@ _Меня зовут Руслан.
 * [Runit](https://github.com/hexlet-rus/runit/issues/284)
 * [Runit](https://github.com/hexlet-rus/runit/issues/285)
   
-### Инструменты
+### Tools and technologies
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
@@ -40,5 +40,5 @@ _Меня зовут Руслан.
 <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-dark.svg" alt="render" width="50" height="50" /> </a>
 </p>
 
-## Мои контакты
+## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AavadaKeedavra)
