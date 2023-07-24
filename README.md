@@ -36,6 +36,7 @@ _Меня зовут Руслан.
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" /> </a>
 <a href="https://ru.wikipedia.org/wiki/Linux">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50" /> </a>
+<a href="https://www.saashub.com/images/app/service_logos/147/1zl76igrax8o/large.png?1589326265">  
 </p>
 
 ## Мои контакты
