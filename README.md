@@ -20,6 +20,7 @@ _Меня зовут Руслан.
   * [Geocron](https://github.com/hexlet-components/ru-my-first-issue/issues/53)
   * [hexlet-correction](https://github.com/Hexlet/hexlet-correction)
   * [hexletguides](https://github.com/Hexlet/hexletguides.github.io)
+  * [hexlet-friends](https://github.com/Hexlet/hexlet-friends)
 
 **My issues**
 * [codebattle](https://github.com/hexlet-codebattle/codebattle/issues/1430)
