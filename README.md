@@ -23,11 +23,7 @@ _Меня зовут Руслан.
   * [hexlet-friends](https://github.com/Hexlet/hexlet-friends)
 
 **My issues**
-* [codebattle](https://github.com/hexlet-codebattle/codebattle/issues/1430)
-* [Runit](https://github.com/hexlet-rus/runit/issues/282)
-* [Runit](https://github.com/hexlet-rus/runit/issues/283)
-* [Runit](https://github.com/hexlet-rus/runit/issues/284)
-* [Runit](https://github.com/hexlet-rus/runit/issues/285)
+* [Runit and others](https://github.com/search?q=author%3AAavadaKedavra&type=issues&s=created&o=desc)
   
 ### Tools and technologies
 
